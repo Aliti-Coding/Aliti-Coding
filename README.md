@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliti-Coding
 - 👀 I’m interested in learning python and how i can utilize it in my work
 
-- 🌱 I’m currently learning the basics in python where i am using codeacademy to advance.
+- 🌱 I’m currently learning data science using python.
 
 - 💞️ I’m looking to collaborate on making mobile apps. 
 
