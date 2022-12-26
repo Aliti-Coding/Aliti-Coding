@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning data science using python.
 
-- 💞️ I’m looking to collaborate on making mobile apps. 
+ 
 
-
+- my codewars profile: https://www.codewars.com/users/Fehmmi%20Aliti
 - 📫 How to reach me: fehmmialiti@gmail.com
 
 
