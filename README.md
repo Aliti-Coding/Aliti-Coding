@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aliti-Coding
 - 👀 I’m interested in learning python and how i can utilize it in my work
 
-- 🌱 I’m currently learning data science using python.
+- 🌱 I’m currently learning data engineer&science using python.
 
  
 
