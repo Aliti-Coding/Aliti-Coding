@@ -7,6 +7,7 @@
 
 - my codewars profile: https://www.codewars.com/users/Fehmmi%20Aliti
 - 📫 How to reach me: fehmmialiti@gmail.com
+- :globe_with_meridians: My linkdin profile: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 
 
