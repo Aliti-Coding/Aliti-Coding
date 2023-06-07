@@ -1,9 +1,16 @@
 - 👋 Hi, I’m @Aliti-Coding
-- 👀 I’m interested in learning python and how i can utilize it in my work
 
-- 🌱 I’m currently learning data engineer&science using python.
 
- 
+Data engineer stack:
+programming languages: Python, SQL
+Cloud providers: Azure, AWS
+ETL tools: Apache Airflow, Databricks
+Datawarehouse: Snowflake
+BI tools: Power BI
+
+Web developent stack:
+Back end: Flask, Django
+Front end: HTML, CSS, Bootstrap
 
 - my codewars profile: https://www.codewars.com/users/Fehmmi%20Aliti
 - 📫 How to reach me: fehmmialiti@gmail.com
