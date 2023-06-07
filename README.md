@@ -2,15 +2,15 @@
 
 
 Data engineer stack: \
-programming languages: Python, SQL \
-Cloud providers: Azure, AWS \
-ETL tools: Apache Airflow, Databricks
-Datawarehouse: Snowflake
-BI tools: Power BI
+- programming languages: Python, SQL \
+- Cloud providers: Azure, AWS \
+- ETL tools: Apache Airflow, Databricks \
+- Datawarehouse: Snowflake\
+- BI tools: Power BI\
 
-Web developent stack:
-Back end: Flask, Django
-Front end: HTML, CSS, Bootstrap
+Web developent stack:\
+- Back end: Flask, Django\
+- Front end: HTML, CSS, Bootstrap\
 
 - my codewars profile: https://www.codewars.com/users/Fehmmi%20Aliti
 - 📫 How to reach me: fehmmialiti@gmail.com
