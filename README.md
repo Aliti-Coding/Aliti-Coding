@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Aliti-Coding
 
 
-Data engineer stack: \n
-programming languages: Python, SQL \n
-Cloud providers: Azure, AWS \n
+Data engineer stack: \
+programming languages: Python, SQL \
+Cloud providers: Azure, AWS \
 ETL tools: Apache Airflow, Databricks
 Datawarehouse: Snowflake
 BI tools: Power BI
