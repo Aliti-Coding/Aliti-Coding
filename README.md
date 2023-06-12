@@ -8,8 +8,8 @@ Data science stack:
 Data engineer stack: 
 - programming languages: Python, SQL 
 - Cloud providers: Azure, AWS 
-- ETL tools: Apache Airflow, Databricks 
-- Datawarehouse: Snowflake
+- ETL tools: Apache Airflow
+- Datawarehouse: Snowflake, Databricks
 - BI tools: Power BI
 
 Web developent stack:
