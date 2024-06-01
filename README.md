@@ -12,12 +12,8 @@ Data engineer stack:
 - Datawarehouse: Snowflake, Databricks
 - BI tools: Power BI
 
-Web developent stack:
-- Back end: Flask, Django
-- Front end: HTML, CSS, Bootstrap
 
-Links: 
-- my codewars profile: https://www.codewars.com/users/Fehmmi%20Aliti
+
 - 📫 How to reach me: fehmmialiti@gmail.com
 - :globe_with_meridians: My linkdin profile: https://www.linkedin.com/in/fehmmi-aliti-478185138/
 
