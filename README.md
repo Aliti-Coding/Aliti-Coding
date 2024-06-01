@@ -6,10 +6,10 @@ Data science stack:
 - machine learning libraries: Scikit learn, Tensorflow 
 
 Data engineer stack: 
-- programming languages: Python, SQL 
+- programming languages: Python, SQL, DAX
 - Cloud providers: Azure, AWS 
-- ETL tools: Apache Airflow
-- Datawarehouse: Snowflake, Databricks
+- ETL tools: Matillion
+- Datawarehouse: Snowflake
 - BI tools: Power BI
 
 
